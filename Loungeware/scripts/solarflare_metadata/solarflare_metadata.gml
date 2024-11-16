@@ -10,16 +10,19 @@
 microgame_register("solarflare_eatthepizza", {
     config_version: 1,
     game_name: "The Poison Cafe",
-    authors : "Solarflare",
-    prompt: "SHOOT",
-    init_room: rm_some_room,
-    view_width: 240,
-    view_height: 160,
+    authors :{
+		thatfirey : "ThatFirey",
+		soleyeer : "Soleyeer"
+	 }
+    prompt: "EAT PIZZA",
+    init_room: solarflare_eatthepizza,
+    view_width: 1280,
+    view_height: 854,
     time_seconds: 5,
     music_track: snd_my_awesome_snd, // nullable, defaults to noone. Accepts: sound name or false
     music_loops: true, // nullable, defaults to true
     interpolation_on: false,
-    cartridge_col_primary: [50, 44, 63],
+    cartridge_col_primary: [166, 78, 50],
     cartridge_col_secondary: [168, 84, 100],
     cartridge_label: johndoe_examplegame_spr_label,
     default_is_fail: true, // nullable, defaults to true
