@@ -2,7 +2,7 @@ microgame_register("tfg_collision", {
     config_version: 1,
     game_name: "Fix Collision",
     authors : "tfg",
-    prompt: "FIND ERROR",
+    prompt: "FIND ERROR",S
     init_room: tfg_collision_rm_game,
     view_width: 960,
     view_height: 640,
