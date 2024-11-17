@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "oPizza",
+  "name": "thatfirey_eatthepizza_obj_pizza",
   "spriteId": {
-    "name": "sPizza",
-    "path": "sprites/sPizza/sPizza.yy",
+    "name": "thatfirey_eatthepizza_spr_pizza",
+    "path": "sprites/thatfirey_eatthepizza_spr_pizza/thatfirey_eatthepizza_spr_pizza.yy",
   },
   "solid": false,
   "visible": true,
@@ -28,7 +28,7 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "EatThePizza",
-    "path": "folders/Microgames/solarflare/EatThePizza.yy",
+    "name": "thatfirey_eatthepizza",
+    "path": "folders/Microgames/thatfirey/thatfirey_eatthepizza.yy",
   },
 }

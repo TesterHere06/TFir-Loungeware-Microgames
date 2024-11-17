@@ -1,11 +1,11 @@
 {
   "resourceType": "GMScript",
   "resourceVersion": "1.0",
-  "name": "solarflare_metadata",
+  "name": "thatfirey_metadata",
   "isDnD": false,
   "isCompatibility": false,
   "parent": {
-    "name": "solarflare",
-    "path": "folders/Microgames/solarflare.yy",
+    "name": "thatfirey",
+    "path": "folders/Microgames/thatfirey.yy",
   },
 }

@@ -9,13 +9,13 @@
 
 microgame_register("solarflare_eatthepizza", {
     config_version: 1,
-    game_name: "The Poison Cafe",
+    game_name: "Pizza Eater",
     authors :{
 		thatfirey : "ThatFirey",
 		soleyeer : "Soleyeer"
 	 }
     prompt: "EAT PIZZA",
-    init_room: solarflare_eatthepizza,
+    init_room: thatfirey_eatthepizza,
     view_width: 1280,
     view_height: 854,
     time_seconds: 5,
